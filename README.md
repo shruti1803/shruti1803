@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm Shruti
 
-🔭 CSE Student at Presidency University, Bengaluru </br>
-🌱 I’m currently learning Data Analysis and Web Design </br>
-👯 I’m looking to collaborate on Open Source Projects </br>
-📫 Here's where you can reach me : https://www.instagram.com/_shrutisinha__/
-  
 # 💫 About Me:
 ## Hi there 👋 I'm Shruti<br><br>🔭 CSE Student at Presidency University, Bengaluru </br><br>🌱 I’m currently learning Data Analysis and Web Design </br><br>👯 I’m looking to collaborate on Open Source Projects </br><br>📫 Here's where you can reach me : https://www.instagram.com/_shrutisinha__/
 
