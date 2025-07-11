@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Shruti
 
 # 💫 About Me:
-## Hi there 👋 I'm Shruti<br><br>🔭 CSE Student at Presidency University, Bengaluru </br><br>🌱 I’m currently learning Data Analysis </br><br>👯 I’m looking to collaborate on Open Source Projects </br><br>📫 Here's where you can reach me : https://www.instagram.com/_shrutisinha__/
+## Hi there 👋 I'm Shruti<br><br>🔭 CSE Student at Presidency University, Bengaluru </br><br>🌱 I’m currently learning. </br><br>📫 Here's where you can reach me : https://www.instagram.com/_shrutisinha__/
 
 
 ## 🌐 Socials:
