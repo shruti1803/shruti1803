@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Shruti
 
-# 💫 About Me:
-## Hi there 👋 I'm Shruti<br><br>🔭 CSE Student at Presidency University, Bengaluru </br><br>🌱 I’m currently learning. </br><br>📫 Here's where you can reach me : https://www.instagram.com/_shrutisinha__/
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-sinha1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrutisinha180403@gmail.com) 
 
