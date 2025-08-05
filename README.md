@@ -25,6 +25,7 @@ I'm a passionate **Computer Science Engineering student** and **Web Development 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -32,13 +33,14 @@ I'm a passionate **Computer Science Engineering student** and **Web Development 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
 </p>
 
 ### Statistics
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=divi-24&show_icons=true&theme=radical&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=divi-24&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=shruti1803&show_icons=true&theme=radical&line_height=40">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shruti1803&theme=radical">
 </p>
 
 ### 🎯 My Mission
