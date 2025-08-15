@@ -14,12 +14,6 @@ I'm a passionate **Computer Science Engineering student** and **Web Development 
 
 📫&nbsp;&nbsp;&nbsp;Email me at shrutisinha180403@gmail.com
 
-### Connect with me:
-<p align="left">
-<a href="https://github.com/divi-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/shruti1803/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="divi-24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shruti-sinha-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/shruti1803/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shruti Sinha" height="30" width="40" /></a>
-</p>
-
 ### The languages and tools that I work with:
 <p align="left">
 
