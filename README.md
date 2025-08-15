@@ -2,8 +2,6 @@
 
 I'm a passionate **Computer Science Engineering student** and **Web Development Enthusiast**. Currently pursuing my BTech in Computer Science And Engineering, I'm deeply focused on frontend development and exploring the exciting world of AI and finance technologies.
 
-💼 &nbsp;&nbsp;&nbsp;Student at **Computer Science And Engineering**
-
 💡 &nbsp;I like to explore new technologies and develop software solutions that make life better and simpler for everyone.
 
 🌱&nbsp;&nbsp;&nbsp;I'm currently learning **Node.js, React.js, and Fintech technologies**
