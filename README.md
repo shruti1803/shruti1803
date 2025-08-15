@@ -29,10 +29,3 @@ I'm a passionate **Computer Science Engineering student** and **Web Development 
 
 
 </p>
-
-### Statistics
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=shruti1803&show_icons=true&theme=radical&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shruti1803&theme=radical">
-</p>
