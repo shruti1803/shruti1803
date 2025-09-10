@@ -1,15 +1,14 @@
-# 👋 Hey there, I'm Aniket Chauhan!  
+# 👋 Hey there, I'm Shruti Sinha!  
 
 🌱 A final-year Computer Science student & backend developer enthusiast.  
 💡 Passionate about building things that solve real problems.  
-🚀 Motto: *“Code, Debug, Repeat... and sometimes sleep 😴”*  
 
 ---
 
 ## 🛠️ Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,flask,git,github,mysql,aws,azure,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react.js,git,github,mysql,html,aws,docker,css" />
 </p>
 
 ---
