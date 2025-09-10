@@ -1,7 +1,7 @@
 ## 🛠️ Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,ml,git,github,mysql,aws,spring boot,ai,react" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,git,github,mysql,aws,spring boot,react,html,css" />
 </p>
 
 ---
