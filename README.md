@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Shruti Sinha!  
 
-🌱 A final-year Computer Science student & backend developer enthusiast.  
+🌱 A final-year Computer Science student.  
 💡 Passionate about building things that solve real problems.  
 
 ---
