@@ -17,6 +17,7 @@
 
 [<img src="https://skillicons.dev/icons?i=linkedin" height="40" />](https://www.linkedin.com/in/shruti-sinha1/)
 [<img src="https://skillicons.dev/icons?i=gmail" height="40" />](mailto:shrutisinha180403@gmail.com)
+[<img_src="https://skillcons.dev/icons?i=X"_height="40"_/>](https://x.com/SSinha85326)
 
 ---
 
