@@ -5,10 +5,15 @@
 
 ---
 
-## 🛠️ Skills & Tools  
-
+## Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,github,mysql,html,aws,docker,css,react,mongodb,nodejs,spring,postman,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,html,css,react,mongodb,nodejs,spring&theme=dark" />
+</p>
+
+---
+## Tools 🛠️
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,aws,docker,postman,wordpress,powershell,git,idea&theme=dark" />
 </p>
 
 ---
