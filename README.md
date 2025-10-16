@@ -13,7 +13,7 @@
 ---
 ## Tools 🛠️
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,aws,docker,postman,wordpress,powershell,git,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,aws,docker,postman,wordpress,git,idea&theme=dark" />
 </p>
 
 ---
