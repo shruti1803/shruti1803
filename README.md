@@ -8,7 +8,7 @@
 ## 🛠️ Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,git,github,mysql,html,aws,docker,css,react,mongodb,nodejs,springboot&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,github,mysql,html,aws,docker,css,react,mongodb,nodejs,spring,postman,wordpress&theme=dark" />
 </p>
 
 ---
