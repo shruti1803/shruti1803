@@ -1,88 +1,73 @@
-<!-- 🌸 SHRUTI SINHA GITHUB PROFILE 🌸 -->
-<h1 align="center">💖 Hey there, I'm Shruti Sinha 🌷</h1>
-<p align="center">
-  <em>✨ Final-year Computer Science student • Full Stack Developer • Design Enthusiast ✨</em>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=harshthakkr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  🌱 I love crafting web experiences that are both <b>beautiful and functional</b>.<br/>
-  💡 Passionate about <b>MERN stack, AI integration, and creative design</b>.<br/>
-  ☕ Currently working on projects that blend <b>aesthetics, tech, and real-world impact.</b>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🙋🏻‍♂️;+I'm+Harsh+Thakkar!;" />
+</h1>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<h3 align="center">A Full Stack Web Developer<img height="22" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
+<br /><br />
+    
+👨🏻‍💻 I'm currently building **Gaming Hub**
+ 
+🌱 I’m currently exploring **Web3, Rust and Solana**
+    
+🎮 Part time gamer, Full time developer
 
-## 🌸 Skills I’ve Cultivated  
+📍 Location: **Ahmedabad, India**
+<div> 
+    <a href="https://x.com/harshthkkr" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="mailto:iharshthkkr@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://linkedin.com/in/harshthakkr" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+</div>
+<br /><br /><br />
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=next,react,javascript,typescript,tailwind,html,css,scss,nodejs,express,mongodb,postgresql,mysql,prisma,jest,figma,rust,cpp,java,github,git&perline=7" />
+  <br>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-F8BBD0?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-F48FB1?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-F06292?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-EC407A?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/JavaScript-F48FB1?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-F06292?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-EC407A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-F8BBD0?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-F48FB1?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-F06292?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<br/><br /><br />
+<div align="center">
+  <h2>GitHub Stats</h2>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/harshthakkr">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshthakkr&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  💕 I enjoy solving problems end-to-end — from clean UI layouts to robust backend logic.  
-</p>
+<a href="https://github.com/harshthakkr/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshthakkr&theme=high-contrast" alt="GitHub Activity Graph" />
+</a>
 
-<p align="center">────────────── ⋆⋅🌸⋅⋆ ───────────────</p>
-
-## 🧁 Tools I Love Using
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-F48FB1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-F06292?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-EC407A?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F8BBD0?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-F48FB1?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-F06292?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-EC407A?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-
-<p align="center">
-  🪩 Whether it’s designing in Figma or deploying on AWS — I adore every step of building something from scratch 💫  
-</p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🌷 Projects That Bloom  
-✨ [**Bloom Store**](https://github.com/shruti1803/Bloom-Store) — My small business MERN app with AI chatbot & 100+ customers 💖  
-🌸 [**Stock Trading Platform**](https://github.com/shruti1803/stocktradingplatform) — JavaScript-powered platform with real-time updates 📈  
-🌼 [**AI Internship Projects @ DRDO**](#) — AI models and analytics for defense research applications 🧠  
-
-<p align="center">────────────── ⋆⋅🌸⋅⋆ ───────────────</p>
-
-## 💫 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/shruti-sinha1/" target="_blank">
-    <img src="https://img.shields.io/badge/💗%20LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shrutisinha180403@gmail.com">
-    <img src="https://img.shields.io/badge/💌%20Gmail-F06292?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shruti1803">
-    <img src="https://img.shields.io/badge/🌸%20GitHub-EC407A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  🌼 Let’s connect, collaborate, and build something meaningful together 💕  
-</p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-<h3 align="center">⭐️ If you like my projects, don’t forget to leave a star! 🌷</h3>
-
-<p align="center">
-  ─────────────── ⋆⋅🌸⋅⋆ ───────────────  
-</p>
-
-<p align="center">
-  <em>Made with 💕, ☕, and creativity ✨</em>
-</p>
-
+<div align="center">
+  <picture>
+    <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/harshthakkr/harshthakkr/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/harshthakkr/harshthakkr/output/github-contribution-grid-snake.svg"
+    />
+    <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/harshthakkr/harshthakkr/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+  <br/><br/><br/>
+</div>
