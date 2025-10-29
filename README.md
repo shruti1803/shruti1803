@@ -70,6 +70,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti1803&bg_color=0d1117&color=c084fc&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </a>
 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=shruti1803" alt="Snake animation" />
+
 <div align="center">
   <picture>
     <source
