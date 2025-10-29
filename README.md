@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">Full Stack + AI Developer <img height="22" alt="flower" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
-<img align="right" src="https://github.com/shruti1803/shruti1803/ef2085a6-6676-4099-bcf1-3df0762fd54b.jpg" alt="Profile Image" width="300"/>
+<img align="right" src="https://github.com/shruti1803/shruti1803/blob/main/ef2085a6-6676-4099-bcf1-3df0762fd54b.jpg" alt="Profile Image" width="300"/>
 <br /><br />
     
 💻 Currently building **Bloom** – an AI-powered full stack web app  
