@@ -52,20 +52,6 @@
   🌙 I love merging elegant design with powerful code ⚡
 </p>
 
-<br/><br /><br />
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/shruti1803">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti1803&hide=html,css&title_color=c084fc&text_color=c9cacc&icon_color=c084fc&theme=radical" width="100%" height="275px" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <a href="https://github.com/shruti1803/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti1803&bg_color=0d1117&color=c084fc&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </a>
