@@ -76,22 +76,6 @@ Building scalable backend systems with Java, Spring Boot & Cloud Technologies �
   🚀 Passionate about building APIs, automating deployments, and designing reliable backend systems.
 </p>
 
----
-
-<h2 align="center">📌 Featured Projects</h2>
-
-🔹 Leave Management System (Spring Boot, MySQL, JWT Authentication)
-
-🔹 Deployment Automation Backend (Spring Boot, Jenkins, Docker)
-
-🔹 Multi-Tenant SaaS Backend Platform
-
-🔹 Bloom – E-Commerce Platform with AI Features
-
-🔹 LinkedIn Job Scraper using Selenium
-
----
-
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=shruti1803" alt="Snake animation" />
 
 
