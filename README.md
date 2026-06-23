@@ -1,62 +1,97 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=shruti1803&label=Profile%20views&color=c084fc&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shruti1803&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=C084FC&lines=Hey+there!+👋;+I'm+Shruti+Sinha!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=3B82F6&lines=Hey+there!+👋;+I'm+Shruti+Sinha!;+Java+Backend+Developer;+Cloud+%26+DevOps+Enthusiast" />
 </h1>
 
-<h3 align="center">Full Stack + AI Developer 💫 <img height="22" alt="sparkle" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
+<h3 align="center">
+Building scalable backend systems with Java, Spring Boot & Cloud Technologies ☁️
+</h3>
 
 <img align="right" src="https://github.com/shruti1803/shruti1803/blob/main/ef2085a6-6676-4099-bcf1-3df0762fd54b.jpg" alt="Profile Image" width="300"/>
 
-<br /><br />
+<br><br>
 
-💻 Currently building **Bloom** – an AI-powered full stack web app  
-🧠 Exploring **MERN, Spring Boot, and AI integrations (Gemini + OpenAI)**  
-🚀 Passionate about clean UIs, fast backends, and deploying things that *work*  
-📍 Based in **India**  
+💻 Building backend applications using **Java, Spring Boot, REST APIs, and Microservices**
 
-<div> 
+☁️ Learning **Docker, Kubernetes, CI/CD Pipelines, and Cloud Deployment**
+
+🗄️ Working with **MySQL, PostgreSQL, MongoDB, and Database Design**
+
+⚡ Interested in **Backend Engineering, System Design, DevOps, and Scalable Architectures**
+
+🎯 Actively seeking opportunities in **Java Backend Development & Cloud Engineering**
+
+📍 Bangalore, India
+
+<div>
   <a href="https://x.com/shrutisinha1803" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-bb86fc?style=for-the-badge&logo=twitter&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+
   <a href="mailto:shruti1803@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-9f7aea?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/shrutisinha1803" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-<br /><br /><br />
+<br><br>
 
-<h2 align="center">💜 Languages · Frameworks · Tools 💜</h2>
-<br/>
+<h2 align="center">⚙️ Backend · Cloud · DevOps Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-9b5de5?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-bc6ff1?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-a78bfa?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-7e22ce?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/JavaScript-9d4edd?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-8b5cf6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-7c3aed?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-a855f7?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-9b5de5?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-8b5cf6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-7e22ce?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 </p>
 
 <p align="center">
-  🌙 I love merging elegant design with powerful code ⚡
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
 </p>
 
-<a href="https://github.com/shruti1803/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti1803&bg_color=0d1117&color=c084fc&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center">
+  🚀 Passionate about building APIs, automating deployments, and designing reliable backend systems.
+</p>
+
+---
+
+<h2 align="center">📌 Featured Projects</h2>
+
+🔹 Leave Management System (Spring Boot, MySQL, JWT Authentication)
+
+🔹 Deployment Automation Backend (Spring Boot, Jenkins, Docker)
+
+🔹 Multi-Tenant SaaS Backend Platform
+
+🔹 Bloom – E-Commerce Platform with AI Features
+
+🔹 LinkedIn Job Scraper using Selenium
+
+---
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=shruti1803" alt="Snake animation" />
-</div>
 
 
